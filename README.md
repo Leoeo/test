@@ -16,7 +16,7 @@ Windows C#
 
 Windows Python
 - Windows 11
-- Visual Studio 2022
+- Visual Studio 2022 (optional)
 - Python 3.9 or higher
 - PyQt5
 - qtcreator
@@ -40,7 +40,7 @@ git clone https://github.com/ThermoEye/TmSDK
 ```
 or
 
-Download from [releases](https://github.com/ThermoEye/releases)
+Download from [releases](https://github.com/ThermoEye/TmSDK/releases)
 
 ## Installing
 
