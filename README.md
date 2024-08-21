@@ -1,18 +1,17 @@
 # TmSDK
 
-This project is an SDK for controlling TMCxxx series cameras.
+This project is a SDK for controlling TMC80/160/256 cameras.
 
 ## Getting Started
 
-### Download
+### Downloads
 
 ```
 git clone https://github.com/ThermoEye/TmSDK
 ```
 or
-```
-https://github.com/Leoeo/ThermoEye/releases
-```
+
+Download from [releases](https://github.com/Leoeo/ThermoEye/releases)
 
 ## Development
 
@@ -20,6 +19,7 @@ Windows C++
 - Windows 11
 - Visual Studio 2022
 - Qt5.14.2
+- qtcreator
 
 Windows C#
 - Windows 11
@@ -30,32 +30,24 @@ Windows Python
 - Visual Studio 2022
 - Python 3.9 or higher
 - PyQt5
+- qtcreator
 
 Linux C++
 - Ubuntu 24.04
 - Gcc-11
 - Qt5.14.2
+- qtcreator
 
 Linux Python
 - Ubuntu 24.04
 - Python 3.9 or higher
 - PyQt5
+- qtcreator
 
 ### Installing
 
-Please refer to [TmSDK Manual.pdf](https://github.com/ThermoEye/TmSDK/blob/main/Document/TmSDK%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.pdf) Manual.pdf
+Please refer to [TmSDK Manual.pdf](https://github.com/ThermoEye/TmSDK/blob/main/Document/TmSDK%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.pdf)
 
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ### And coding style tests
 
@@ -65,37 +57,11 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
-
+## Contact us
+Thermoeye Inc. operates service channels to keep your camera running at all times. 
+If you discover a problem with your camera, please get in touch with us for technical support.
+	Website: [www.thermoeye.co.kr](https://www.thermoeye.co.kr)
+	E-mail: help@thermoeye.co.kr
+	Tel: +82-70-4489-6196
+	Head Office: 307, Research Building 3, 70, Yuseong-daero 1689 beon-gil, Yuseong-gu, Daejeon, Republic of Korea
+	Seoul R&D: 4~5F, 169 Sadang-ro, Dongjak-gu, Seoul, Republic of Korea
