@@ -1,24 +1,25 @@
 # TmSDK
 
 This project is a SDK for controlling TMC80/160/256 cameras.
+
 After downloading the code, please refer to the 'TmSDK Manual.pdf' file.
 
 ## Directory
 ```
-├─Document					; API Documentation and User Manual
+├─Document                  ; API Documentation and User Manual
 │  └─API
-│      ├─Cpp				; C++ API
-│      ├─CSharp				; C# API
-│      └─Python				; Python API
-├─Firmware					; TMCxxx firmware files
-└─SDK						; TmSDK library and sample code
+│      ├─Cpp                ; C++ API
+│      ├─CSharp             ; C# API
+│      └─Python             ; Python API
+├─Firmware                  ; TMCxxx firmware files
+└─SDK                       ; TmSDK library and sample code
     ├─Linux
-    │  ├─TmLinux			; Qt5 platform Linux C++ application
-    │  └─TmPython			; Linux-based Python application
+    │  ├─TmLinux            ; Qt5 platform Linux C++ application
+    │  └─TmPython           ; Linux-based Python application
     └─Windows
-        ├─TmPython			; Windows-based Python application
-        ├─TmWinQt			; Qt5 platform Windows C++ application
-        └─TmWinQtSimple		; C++ application without installing Qt5
+        ├─TmPython          ; Windows-based Python application
+        ├─TmWinQt           ; Qt5 platform Windows C++ application
+        └─TmWinQtSimple     ; C++ application without installing Qt5
 ```
 ## Requirement
 
