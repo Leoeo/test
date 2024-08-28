@@ -2,6 +2,35 @@
 
 This project is a SDK for controlling TMC80/160/256 cameras.
 
+## Directory
+```
+├─Document
+│  └─API
+│      ├─Cpp
+│      │  └─html
+│      ├─CSharp
+│      │  └─html
+│      └─Python
+│          └─html
+├─Firmware
+└─SDK
+    ├─Linux
+    │  ├─TmLinux
+    │  │  ├─include
+    │  │  └─lib
+    │  └─TmPython
+    └─Windows
+        ├─TmPython
+        ├─TmWinDotNet
+        │  └─Properties
+        ├─TmWinQt
+        │  ├─include
+        │  └─lib
+        └─TmWinQtSimple
+            ├─include
+            ├─lib
+            └─Qt5.14.2
+```
 ## Requirement
 
 Windows C++
@@ -46,7 +75,8 @@ Download from [releases](https://github.com/ThermoEye/TmSDK/releases)
 
 Please refer to [TmSDK Manual.pdf](https://github.com/ThermoEye/TmSDK/blob/main/Document/TmSDK%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.pdf)
 
-## Contact us
+## Support
+
 Thermoeye Inc. operates service channels to keep your camera running at all times. 
 If you discover a problem with your camera, please get in touch with us for technical support.
 
