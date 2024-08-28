@@ -1,7 +1,7 @@
 # TmSDK
 
 This project is a SDK for controlling TMC80/160/256 cameras.
-After downloading the code, please refer to the 'Document/TmSDK Manual.pdf' file.
+After downloading the code, please refer to the **'Document/TmSDK Manual.pdf'** file.
 
 ## Directory
 ```
