@@ -14,19 +14,19 @@ After downloading the code, please refer to the **'Document/TmSDK Manual.pdf'** 
 ├─Firmware                  ; TMCxxx firmware files
 └─SDK                       ; TmSDK library and sample code
     ├─Android               
-	│  ├─examples           ; Java application for android 
-	│  └─libs               ; JNI and android libraries
+    │  ├─examples           ; Java application for android 
+    │  └─libs               ; JNI and android libraries
     ├─Linux
-	│  ├─examples
+    │  ├─examples
     │  │  ├─TmLinux         ; Qt5-based C++ application for Linux
     │  │  └─TmPython        ; Python application for Linux
-	│  └─installer          ; deb/whl install files
+    │  └─installer          ; deb/whl install files
     └─Windows
-	   ├─examples
+       ├─examples
        │  ├─TmPython        ; Python application for Windows
        │  ├─TmWinQt         ; Qt5-based C++ application for Window
        │  └─TmWinQtSimple   ; C++ application without installing Qt5
-	   └─installer          ; msi/whl install files
+       └─installer          ; msi/whl install files
 ```
 ## Requirement
 
