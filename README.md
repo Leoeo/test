@@ -7,29 +7,41 @@ After downloading the code, please refer to the **'Document/TmSDK Manual.pdf'** 
 ```
 ├─Document                  ; API Documentation and User Manual
 │  └─API
+│      ├─Android            ; Android API
 │      ├─Cpp                ; C++ API
 │      ├─CSharp             ; C# API
 │      └─Python             ; Python API
 ├─Firmware                  ; TMCxxx firmware files
 └─SDK                       ; TmSDK library and sample code
+    ├─Android               
+	│  ├─examples           ; Java application for android 
+	│  └─libs               ; JNI and android libraries
     ├─Linux
-    │  ├─TmLinux            ; Qt5-based C++ application for Linux
-    │  └─TmPython           ; Python application for Linux
+	│  ├─examples
+    │  │  ├─TmLinux         ; Qt5-based C++ application for Linux
+    │  │  └─TmPython        ; Python application for Linux
+	│  └─installer          ; deb/whl install files
     └─Windows
-        ├─TmPython          ; Python application for Windows
-        ├─TmWinQt           ; Qt5-based C++ application for Window
-        └─TmWinQtSimple     ; C++ application without installing Qt5
+	   ├─examples
+       │  ├─TmPython        ; Python application for Windows
+       │  ├─TmWinQt         ; Qt5-based C++ application for Window
+       │  └─TmWinQtSimple   ; C++ application without installing Qt5
+	   └─installer          ; msi/whl install files
 ```
 ## Requirement
 
 Windows C++
-- Windows 11
+- Windows 10 or 11
 - Visual Studio 2022
 - Qt5.14.2
 - qtcreator
 
+Windows C#
+- Windows 10 or 11
+- Visual Studio 2022
+
 Windows Python
-- Windows 11
+- Windows 10 or 11
 - Visual Studio 2022 (optional)
 - Python 3.9 or higher
 - PyQt5
@@ -47,6 +59,9 @@ Linux Python
 - PyQt5
 - qtcreator
 
+Android
+- android-24
+
 ## Downloads
 
 ```
@@ -58,7 +73,7 @@ Download from [releases](https://github.com/ThermoEye/TmSDK/releases)
 
 ## Installing
 
-Please refer to [TmSDK Manual.pdf](https://github.com/ThermoEye/TmSDK/blob/main/Document/TmSDK%EC%82%AC%EC%9A%A9%EC%84%A4%EB%AA%85%EC%84%9C.pdf)
+Please refer to [TmSDK Manual.pdf](https://github.com/ThermoEye/TmSDK/blob/main/Document/TmSDK%20Manual.pdf)
 
 ## Support
 
