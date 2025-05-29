@@ -24,6 +24,7 @@ After downloading the code, please refer to the **'Document/TmSDK Manual.pdf'** 
     └─Windows
        ├─examples
        │  ├─TmPython        ; Python application for Windows
+	   │  ├─TmWinDotnet     ; C# application for Windows
        │  ├─TmWinQt         ; Qt5-based C++ application for Window
        │  └─TmWinQtSimple   ; C++ application without installing Qt5
        └─installer          ; msi/whl install files
@@ -60,7 +61,7 @@ Linux Python
 - qtcreator
 
 Android
-- android-24
+- android-24 or later
 
 ## Downloads
 
