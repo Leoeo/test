@@ -11,7 +11,6 @@ After downloading the code, please refer to the **'Document/TmSDK Manual.pdf'** 
 │      ├─Cpp                ; C++ API
 │      ├─CSharp             ; C# API
 │      └─Python             ; Python API
-├─Firmware                  ; TMCxxx firmware files
 └─SDK                       ; TmSDK library and sample code
     ├─Android               
     │  ├─examples           ; Java application for android 
