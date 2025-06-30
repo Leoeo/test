@@ -5,21 +5,21 @@ After downloading the code, please refer to the **'Document/TmSDK Manual.pdf'** 
 
 ## Directory
 ```
-├─Document                  ; API Documentation and User Manual
+├─Document                   ; API Documentation and User Manual
 │  └─API
-│   ├─Android               ; Android API
-│   ├─Cpp                   ; C++ API
-│   ├─CSharp                ; C# API
-│   └─Python                ; Python API
-└─examples                  ; TmSDK sample code
-    ├─Android               ; Java application for android 
-    │  └─libs               ; JNI and android libraries
-    ├─Linux                 ; Qt5-based C++ application for Linux
-    ├─Python                ; Python application
-    └─Windows
-       ├─TmWinDotnet        ; C# application for Windows
-       ├─TmWinQt            ; Qt5-based C++ application for Window
-       └─TmWinQtSimple      ; C++ application without installing Qt5
+│    ├─Android               ; Android API
+│    ├─Cpp                   ; C++ API
+│    ├─CSharp                ; C# API
+│    └─Python                ; Python API
+└─examples                   ; TmSDK sample code
+     ├─Android               ; Java application for android 
+     │  └─libs               ; JNI and android libraries
+     ├─Linux                 ; Qt5-based C++ application for Linux
+     ├─Python                ; Python application
+     └─Windows
+        ├─TmWinDotnet        ; C# application for Windows
+        ├─TmWinQt            ; Qt5-based C++ application for Window
+        └─TmWinQtSimple      ; C++ application without installing Qt5
 ```
 ## Requirement
 
